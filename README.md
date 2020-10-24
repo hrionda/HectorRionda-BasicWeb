@@ -16,5 +16,5 @@ I do not claim to own ANY of these images or websites, and all appropriate credi
 # NOTES
 This website is not meant for production use due to it not being secure enough to be hosted on a server.
 For example, this code does not properly sanitize user input, leaving it vulnerable to SQL injections.
-Also, some arguments contained in the code which contained sensitive information from my university have also been ommitted.
+Also, some arguments contained in the code which contained sensitive information from my university have also been omitted.
 However, the general structure (or "skeleton") of the code has been preserved in these instances.
